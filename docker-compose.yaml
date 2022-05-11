@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:9.6.22
+    volumes:
+      - ./data/repository:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_HOST=db
+    restart: on-failure
+    ports:
+      - "5432:5432"
+
+  web:
+    container_name: grad-service
+    image: gradapi:1-01
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    restart: on-failure

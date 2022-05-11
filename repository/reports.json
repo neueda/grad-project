@@ -1,0 +1,178 @@
+[
+    {
+        "scammerphonenumber": "026253693778",
+        "description": "told me i had made a order for a iphone",
+        "category": "fake Amazon call",
+        "author": "Bob Smith",
+        "reportDate": "30-7-20",
+        "numberOfReports": 4
+    },
+    {
+        "scammerphonenumber": "086243393976",
+        "description": "said my laptop had a virus",
+        "category": "Fake apple call",
+        "author": "Mike Jones",
+        "reportDate": "24-2-19",
+        "numberOfReports":1
+    },
+    {
+        "scammerphonenumber": "+4421234",
+        "description": "told me that my passport was stole",
+        "category": "Fake Passport ",
+        "author": "James Robbin",
+        "reportDate": "18-10-24",
+        "numberOfReports": 3
+    },
+    {
+        "scammerphonenumber": "286243393976",
+        "description": "told me that i order some items",
+        "category": "Fake amazon",
+        "author": "Guy Peterson",
+        "reportDate": "11-02-20",
+        "numberOfReports": 4
+    },
+    {
+        "scammerphonenumber": "086244493976",
+        "description": "told me someone is try to steal money from my account",
+        "category": "Fake paypal",
+        "author": "Alan Johnson",
+        "reportDate": "13-06-22",
+        "numberOfReports": 8
+    },
+    {
+        "scammerphonenumber": "555-555-222-442",
+        "description": "try to get my to give my card details",
+        "category": "Fake red cross",
+        "author": "Mary Rose",
+        "reportDate": "29-07-18",
+        "numberOfReports": 7
+    },
+    {
+        "scammerphonenumber": "111911234532",
+        "description": "told me that my computer had a virus",
+        "category": "Fake Microsoft",
+        "author": "Kate Overturn",
+        "reportDate": "1-01-19",
+        "numberOfReports": 6
+    },
+    {
+        "scammerphonenumber": "768584930211",
+        "description": "told me i had made a booking",
+        "category": "Fake airbnb",
+        "author": "Carla Stepwolf",
+        "reportDate": "13-7-19",
+        "numberOfReports": 4
+    },
+    {
+        "scammerphonenumber": "212121212121",
+        "description": "told me that i being hacked",
+        "category": "Fake call from callcenter",
+        "author": "Paul Alan",
+        "reportDate": "11-11-20",
+        "numberOfReports": 3
+    },
+    {
+        "scammerphonenumber": "545323232323",
+        "description": "try to get me to give him my card details",
+        "category": "Fake amazon",
+        "author": "David Cross",
+        "reportDate": "4-9-19",
+        "numberOfReports": 4
+    },
+    {
+        "scammerphonenumber": "i226914-323221",
+        "description": "telling me i had 100s of bitcoin in my account",
+        "category": "Fake call from coinbase",
+        "author": "Neil Rogan",
+        "reportDate": "1-5-19",
+        "numberOfReports": 8
+    },
+    {
+        "scammerphonenumber": "768549930212",
+        "description": "told me that i had stole aaron's coffee",
+        "category": "Fake call from zinkwoks",
+        "author": "Joe Young",
+        "reportDate": "11-4-18",
+        "numberOfReports": 7
+    },
+    {
+        "scammerphonenumber": "123455678+23",
+        "description": "told me that i had stole aaron's job",
+        "category": "Fake call from zinkworks",
+        "author": "Richard Henrick",
+        "reportDate": "11-4-18",
+        "numberOfReports": 9
+    },
+    {
+        "scammerphonenumber": "232323212120",
+        "description": "told me that i own tax money",
+        "category": "Fake Irish Tax",
+        "author": "Eric Goodhand",
+        "reportDate": "22-01-18",
+        "numberOfReports": 8
+    },
+    {
+        "scammerphonenumber": "23211020811*",
+        "description": "told me that i sent money to gangs overseas",
+        "category": "Fake western union",
+        "author": "John Head",
+        "reportDate": "23-4-20",
+        "numberOfReports": 7
+    },
+    {
+        "scammerphonenumber": "*21212121211",
+        "description": "told my that my account was frozen",
+        "category": "Fake bank call",
+        "author": "Peter Clapton",
+        "reportDate": "2-4-18",
+        "numberOfReports": 5
+    },
+    {
+        "scammerphonenumber": "122041016202",
+        "description": "just call and ask for money",
+        "category": "dont know",
+        "author": "Joe Siverman",
+        "reportDate": "1-1-21",
+        "numberOfReports": 3
+    },
+    {
+        "scammerphonenumber": "502222354750",
+        "description": "told me that i sent money to gangs overseas",
+        "category": "Fake western union",
+        "author": "Colin O'Connor",
+        "reportDate": "2-09-19",
+        "numberOfReports": 7
+    },
+    {
+        "scammerphonenumber": "85820101011",
+        "description": "told me that my paypal was used to buy drugs",
+        "category": "Fake paypal",
+        "author": "Amy Burn",
+        "reportDate": "4-01-20",
+        "numberOfReports": 2
+    },
+    {
+        "scammerphonenumber": "125647383922",
+        "description": "told me that i own money to the irish goverment",
+        "category": "Fake Irish Tax",
+        "author": "Sarah Stove",
+        "reportDate": "24-02-22",
+        "numberOfReports": 4
+    },
+    {
+        "scammerphonenumber": "TEST_DATA",
+        "description": "TEST_DATA",
+        "category": "TEST_DATA",
+        "author": "TEST_USER_1",
+        "reportDate": "TEST_DATA",
+        "numberOfReports": 0
+    },
+    {
+        "scammerphonenumber": "TEST_DATA",
+        "description": "TEST_DATA",
+        "category": "TEST_DATA",
+        "author": "TEST_DATA",
+        "reportDate": "TEST_USER_2",
+        "numberOfReports": 0
+    }
+]

@@ -1,0 +1,3 @@
+Author,AuthorEmail,ScammerPhoneNumber,Description,Category,ReportDate,NumberOfReports,ScamSuccessful
+Bob Smith,bob@example.com,123-456-7890,coldcall,fakeAmazon,22-11-22,1,yes
+Mike Jones,mike@example.com,098-765-4321,called and had my details,fakewindows,2-1-21,2,no
